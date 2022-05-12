@@ -21,6 +21,19 @@
 					"I guess your employees do know how to provide support. I am happy and satisfied with the level of response that I got.",
 					"The support was fine and my service issues were resolved on timely basis."	
 			]
+		},
+		{
+			"model":"Iron 1200" ,
+			"feedback": [
+				"This is an awesome motorcycle! I finally feel fulfilled!",
+				"My name is Dan and I like Harley's because they make me feel complete"
+			]
+		},
+		{
+			"model":"F-150" ,
+			"feedback": [
+				"The gas mileage on this thing is garbage"
+			]
 		}
 	]
 }		
